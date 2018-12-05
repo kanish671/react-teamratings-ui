@@ -4,7 +4,7 @@ class DateSelector extends Component {
 	render() {
 		return (
 			<div className = "date-selector">
-				
+				<p>date selector</p>
 			</div>
 		);
 	}

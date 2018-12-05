@@ -6,6 +6,7 @@ class Filters extends Component {
 	render() {
 		return (
 			<div className = "filters">
+				<p>filters</p>
 				<TeamSelector></TeamSelector>
 				<DateSelector></DateSelector>
 			</div>
